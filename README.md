@@ -1,7 +1,7 @@
 CodeExample_DNS
 ===============
 
-This is a code example requested by a potential employer.
+This is a PHP/OOP code example requested by a potential employer.
 
 
 ===============
